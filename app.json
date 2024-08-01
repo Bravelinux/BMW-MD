@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":" 𝐁𝐌𝐖-𝐗𝐌𝐃",
+      "value":" 𝐁𝐌𝐖🚮 had no other choices left",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/7d07f6bb6562e3c7b9599.mp4",
+      "value":"https://telegra.ph/file/9db5c28f3428c8dc7a85e.jpg",
       "required":false
        
      },
@@ -67,7 +67,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID, the code you received after pairing code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib0NoUkdZcXdxRkxMOHF1aTJUN2xaK0o5Y3BNOGZjZHZkNnh0RGhtSFdrST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibkMzNVQ1WE0zeEZkdVRwUE1PdElWV2I1QWQ5ajVobUdKWCtsNnpheHJHQT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI0SXQzSDdRN3hxVnBJWFZwUmJrRk9BeG5NNzJ5U2VNUFJEMVd2OFFrWDN3PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJzT2VMWEMva0tSYXVqRnN0K1J3VUxTWUhHbmJiT3NHQUt1V0RGVWZNendBPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik9FTFlGUmNuU2xLVkEyNkFyY2ZzU0NzR2hTZlg2K1pvY2hTUkdVQnZ3RVU9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImYrUStUNTI0K3VXNE45Rlhkc2dQclJqOGtWV25LcW1LMm9UNmFkY2VSRG89In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoia0dUOGI4T0piQm9uSlNnN2N0bUdUMksrSU9jZ1RucTVJamZFT3E0VFhtVT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUExkMG9KWFZhNGVyRjRhU0hXbXQ2U0dCa1l6MHg5THVmOGI3SUhBTUsyVT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkpFRE5iejNtcFU4NWJzck83T2pJcFFqWUpycE9pbmtVZndmSWdSNzUvemJsQk5vd2drY0NLcG5wWEZiRjJoNHFOaGNXSlFvUkRmaXkwUTF6dTM5VEF3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NDgsImFkdlNlY3JldEtleSI6IjdlRzJhN0x2Ujk4WDRpa29oR2cxNDUyU0VPVHg3Nk9xUWxwcW1CTC83ZVk9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IkZSc2lFOWNEVEVpTWI2VmctNHduUHciLCJwaG9uZUlkIjoiNmE2ZjEzN2YtNWFjNS00NjYwLTg3YWItZDhmOWY0MmU2ZDczIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ilk2b1g5U09qWWtRNm15SnZLc3hwOG5RWE9pWT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJtOWhrUEc1a28rUFNhV09pUWFZU3JDMzc0Z289In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiQjdNWExDRDIiLCJtZSI6eyJpZCI6IjI1NDc2OTI3OTA3Njo3NkBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDUHFPa0pBQkVMR0xyTFVHR0EwZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiWkhkZEJsTlhwTHo3ZUxBT3UrOXlTcDE4VHpMZkdHbjNiSjZQYlB0VW9qcz0iLCJhY2NvdW50U2lnbmF0dXJlIjoiZEZnekRLZzBWcFFVNTB2N1QwakFGbTY4NWlEVTJwWHZCMU11M0ZQSnNvYWJzVVRwc2N5NThMbTBTLzlrWlluSkpRVFZFZmRwZUYyYXJwQ0JGOHhZRHc9PSIsImRldmljZVNpZ25hdHVyZSI6InMyY1ViMXowOVBFRGdPK1NEL3Rxc0EraGc5VGJFUE8waHhiQjNkeU9BZWIrcmt6VC9BejFDa2VyRWZmSmV2MmxlcjBnZ3dGRTc1L1F3VzRaWXdFYkJnPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU0NzY5Mjc5MDc2Ojc2QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQldSM1hRWlRWNlM4KzNpd0RydnZja3FkZkU4eTN4aHA5MnllajJ6N1ZLSTcifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjI0ODQxNTcsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBR1gxIn0=",
       "required":true
       
     },
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "DAVE 😎"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254739937062,254710772666"
+    "value": "254769279076"
   },
     "WARN_COUNT":
   {
@@ -104,7 +104,7 @@
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
+    "value": "yes",
     "required": false
   }
   },
